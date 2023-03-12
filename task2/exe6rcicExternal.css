@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(231, 203, 166);
+}
+h1 {
+    font-weight: bold;
+}
+.p1 {
+    font-size: 150%;
+    font-weight: bold;
+}
+#div1 {
+    background-color: white;
+    padding: 1%;
+    width: 80%;
+}
+#div2 {
+    background-color: white;
+    padding: 1%;
+    border: dashed;
+    width: 80%;
+}
+#div3 {
+    color: blueviolet;
+    background-color: white;
+    padding: 1%;
+    width: 80%;
+}
+.span1 {
+    background-color: orange;
+}
+.span2 {
+    background-color: yellow;
+}
+#p2 {
+    border: dashed;
+    border-color: red;
+}

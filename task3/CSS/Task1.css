@@ -1,0 +1,10 @@
+.cell {
+    border-radius: 4px;
+    border: 1px solid black;
+    width: 20%;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px rgb(105, 105, 105);
+}
+.table1 {
+    border-spacing: 22px;
+}
